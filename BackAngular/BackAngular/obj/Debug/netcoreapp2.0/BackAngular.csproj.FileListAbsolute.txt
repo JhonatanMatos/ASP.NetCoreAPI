@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\bin\Debug\netcoreapp2.0\BackAngular.deps.json
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\bin\Debug\netcoreapp2.0\BackAngular.runtimeconfig.json
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\bin\Debug\netcoreapp2.0\BackAngular.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\bin\Debug\netcoreapp2.0\BackAngular.dll
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\bin\Debug\netcoreapp2.0\BackAngular.pdb
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.dll
+C:\Users\Usuario\source\repos\BackAngular\BackAngular\obj\Debug\netcoreapp2.0\BackAngular.pdb
